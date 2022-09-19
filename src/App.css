@@ -58,6 +58,9 @@
 }
 
 @media screen and (max-width: 500px) {
+  * {
+    font-size: 12px;
+  }
   .App {
     height: 90vh;
     width: 100%;
