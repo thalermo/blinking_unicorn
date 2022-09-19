@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head--img {
+  max-width: 25rem;
+}
+
+.closed-eyes--img {
+  position: relative;
+  max-width: 28rem;
+
+  margin-top: -2rem;
+  z-index: -1;
+}
+
+.open-eyes--img {
+  max-width: 25rem;
+}
+
+.nose--img {
+  width: 15rem;
+  padding-left: 1rem;
+  margin-top: -3rem;
+}
+
+.unicorn-btn {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  border-radius: 1rem;
+  color: rgb(88, 88, 88);
+
+  background: linear-gradient(
+    180.11deg,
+    #ff4da8 13.03%,
+    #fffb26 51.2%,
+    #66daff 99.91%
+  );
+  width: 30rem;
+  height: 5rem;
+  border: 0;
+  box-shadow: 0 0 60px 30px #fff, 0 0 100px 60px #f0f;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  cursor: pointer;
+}
+
+.unicorn-btn:hover {
+  box-shadow: 0 0 60px 30px #fff, 0 0 100px 60px #f0f, 0 0 140px 90px #0ff;
+}
