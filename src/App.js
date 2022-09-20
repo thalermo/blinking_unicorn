@@ -44,14 +44,22 @@ function App() {
           src={unicornOpenEyes}
           style={style}
           className="open-eyes--img"
-          alt=""
+          alt="you woke up the unicorn, the eyes are open"
         />
       </div>
-      <div className="unicorn-Closed-Eyes">
-        <img src={unicornClosedEyes} className="closed-eyes--img" alt="" />
+      <div className="unicorn-closed-eyes">
+        <img
+          src={unicornClosedEyes}
+          className="closed-eyes--img"
+          alt="the unicorn still sleep and closing his eyes"
+        />
       </div>
       <div className="unicorn-nose">
-        <img src={unicornNose} alt="" className="nose--img" />
+        <img
+          src={unicornNose}
+          alt="the nose of the unicorn"
+          className="nose--img"
+        />
       </div>
     </div>
   );
