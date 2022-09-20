@@ -29,11 +29,15 @@ Users should be able to:
 
 Still sleeping Unicorn's version:
 
-![](./src/images/screen_shoot_unicorn_closed_eyes.png)
+![](./src/images/screenshot_unicorn_closed_eyes.png)
 
 Awake Unicorn's version:
 
-![](./src/images/screen_shoot_unicorn_open_eyes.png)
+![](./src/images/screenshot_unicorn_open_eyes.png)
+
+The figma's screen shoot:
+
+![](./src/images/screenshot_figma.png)
 
 ### Links
 
@@ -55,11 +59,12 @@ $ npm install
 ### Built with
 
 - Semantic HTML5 markup
+- CSS custom properties
 - vanilla.JS
 - React.JS
-- CSS custom properties
 
-- [Firma](https://www.figma.com/file/ybdtf5RieEGlvjtlCQ34M5/unicorn_blinking?node-id=0%3A1) - Self made Firma Wireframe
+- [Firma](https://www.figma.com/file/ybdtf5RieEGlvjtlCQ34M5/unicorn_blinking?node-id=0%3A1) - Self made Firma Wireframe, open the link and try to create this project from scratch
+
 - [Conditional Styling](https://dev.to/salehmubashar/conditional-styling-in-react-js-3h52) - a great article about conditional styling in React.js
 
 <br/>
