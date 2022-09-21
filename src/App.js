@@ -28,14 +28,14 @@ function App() {
   };
 
   const style = {
-    opacity: !openEyes ? 0 : 1,
+    opacity: openEyes ? 1 : 0,
   };
 
   return (
-    <div className="App">
-      <button className="unicorn-btn" onClick={handelClick}>
+    <div className="App" onClick={handelClick}>
+      <div className={`unicorn-greeting ${openEyes ? 'glowing-effect' : ''}`}>
         {eyesStatus}
-      </button>
+      </div>
       <div className="unicorn-head">
         <img src={unicornHead} alt="" className="head--img" />
       </div>
