@@ -1,6 +1,6 @@
 # The blinking Unicorn - Showcase with React
 
-This is my showcase to the [ Blinking Unicorn](https://unicorn-blinking.netlify.app). Enter the website, click the button and wake up the Unicorn 🦄
+This is my showcase to the [ Blinking Unicorn](https://blinking-unicorn.netlify.app). Enter the website, click the button and wake up the Unicorn 🦄
 
 ## Table of contents
 
@@ -14,6 +14,7 @@ This is my showcase to the [ Blinking Unicorn](https://unicorn-blinking.netlify.
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
+  - [Credits](#credits)
 
 ## Overview
 
@@ -103,3 +104,9 @@ $ npm install
 ## Author
 
 - LinkedIn - [@moran_thaler](www.linkedin.com/in/moran-thaler)
+
+## Credits
+
+- Illustration creator :FishPouch
+- Stock-Illustration-ID:1206701951
+- [iStock](https://www.istockphoto.com/de/vektor/einhorn-gesicht-niedlich-clipart-vektor-isoliert-gm1206701951-348123419)
